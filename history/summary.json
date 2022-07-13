@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "qb-prod",
     "status": "up",
-    "uptime": "0.43%",
-    "uptimeDay": "0.43%",
-    "uptimeWeek": "0.43%",
-    "uptimeMonth": "0.43%",
-    "uptimeYear": "0.43%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 479,
     "timeDay": 479,
     "timeWeek": 479,
     "timeMonth": 479,
     "timeYear": 479,
-    "dailyMinutesDown": {
-      "2022-07-13": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
