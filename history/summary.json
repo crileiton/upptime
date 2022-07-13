@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "homecenter-qb",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "96.38%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "96.38%",
+    "uptimeMonth": "96.38%",
+    "uptimeYear": "96.38%",
     "time": 566,
     "timeDay": 566,
     "timeWeek": 566,
     "timeMonth": 566,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2022-07-13": 0
+      "2022-07-13": 1
     }
   },
   {
