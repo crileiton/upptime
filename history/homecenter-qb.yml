@@ -1,7 +1,7 @@
-url: https://qb.homecenter.co
+url: $SECRET_SITE
 status: up
 code: 200
-responseTime: 1092
-lastUpdated: 2022-07-13T23:17:00.271Z
+responseTime: 210
+lastUpdated: 2022-07-13T23:22:27.633Z
 startTime: Wed Jul 13 2022 23:05:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
