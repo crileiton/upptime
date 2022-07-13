@@ -4,7 +4,7 @@ repo: upptime-QB # The name of this repositoryy
 
 sites:
   - name: Homecenter QB
-    url: https://qb.homecenter.co
+    url: $SECRET_SITE
   - name: Test Broken Site
     url: https://qdasdb.homecendasdaster.co
 
