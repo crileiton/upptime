@@ -4,19 +4,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "qb-prod",
-    "status": "down",
-    "uptime": "11.42%",
-    "uptimeDay": "11.42%",
-    "uptimeWeek": "11.42%",
-    "uptimeMonth": "11.42%",
-    "uptimeYear": "11.42%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.43%",
+    "uptimeDay": "0.43%",
+    "uptimeWeek": "0.43%",
+    "uptimeMonth": "0.43%",
+    "uptimeYear": "0.43%",
+    "time": 479,
+    "timeDay": 479,
+    "timeWeek": 479,
+    "timeMonth": 479,
+    "timeYear": 479,
     "dailyMinutesDown": {
-      "2022-07-13": 0
+      "2022-07-13": 9
     }
   }
 ]
