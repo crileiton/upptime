@@ -1,7 +1,7 @@
 url: $URL_QB_QA
-status: up
-code: 200
-responseTime: 1404
-lastUpdated: 2022-07-14T12:54:57.581Z
+status: down
+code: 502
+responseTime: 21822
+lastUpdated: 2022-07-14T13:33:52.087Z
 startTime: Thu Jul 14 2022 01:26:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
