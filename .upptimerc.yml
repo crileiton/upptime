@@ -23,8 +23,8 @@ sites:
     url: $URL_PW_QA
     expectedStatusCodes:
       - 200
-  - name: Test Broken Site 9
-    url: https://cdqqqssnnnon.com/appleee
+  - name: Test Broken Site 10
+    url: https://cdqqqssnnnosasan.com/appleee
     expectedStatusCodes:
       - 200
   - name: Personal Page
