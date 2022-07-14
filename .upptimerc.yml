@@ -24,7 +24,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Test Broken Site 3
-    url: https://cristisadasdasdasdanleiton.com/apple
+    url: https://cristisadasdasdasdsanleiton.com/apple
     expectedStatusCodes:
       - 200
 
