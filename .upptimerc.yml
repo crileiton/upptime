@@ -42,6 +42,9 @@ status-website:
   #    href: /
   #  - title: GitHub
   #    href: https://github.com/$OWNER/$REPO
+  
+  #light,dark,night,ocean
+  theme: night
 i18n:
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas están operativos
@@ -49,7 +52,7 @@ i18n:
 
 #light,dark,night,ocean
 status-website:
-  theme: night
+
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
