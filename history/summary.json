@@ -22,19 +22,19 @@
     "url": "$URL_QB_QA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "qb-qa",
-    "status": "up",
-    "uptime": "24.83%",
-    "uptimeDay": "24.83%",
-    "uptimeWeek": "24.83%",
-    "uptimeMonth": "24.83%",
-    "uptimeYear": "24.83%",
-    "time": 8940,
-    "timeDay": 8940,
-    "timeWeek": 8940,
-    "timeMonth": 8940,
-    "timeYear": 8940,
+    "status": "down",
+    "uptime": "28.23%",
+    "uptimeDay": "28.23%",
+    "uptimeWeek": "28.23%",
+    "uptimeMonth": "28.23%",
+    "uptimeYear": "28.23%",
+    "time": 9460,
+    "timeDay": 9460,
+    "timeWeek": 9460,
+    "timeMonth": 9460,
+    "timeYear": 9460,
     "dailyMinutesDown": {
-      "2022-07-14": 419
+      "2022-07-14": 406
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-14": 432
+      "2022-07-14": 440
     }
   },
   {
