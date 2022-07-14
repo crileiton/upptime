@@ -7,6 +7,8 @@ sites:
     url: $SECRET_SITE
   - name: Test Broken Site 
     url: https://cristianleiton.com/apple
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
