@@ -23,8 +23,8 @@ sites:
     url: $URL_PW_QA
     expectedStatusCodes:
       - 200
-  - name: Test Broken Site 7
-    url: https://cradqqqssanleitnnnnon.com/apple
+  - name: Test Broken Site 8
+    url: https://cradqqqssanleitsaasnnnon.com/applee
     expectedStatusCodes:
       - 200
 
