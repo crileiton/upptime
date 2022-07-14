@@ -7,10 +7,10 @@ sites:
     url: $URL_QB_DEV
     expectedStatusCodes:
       - 200
-  - name: QB-QA
-    url: $URL_QB_QA
-    expectedStatusCodes:
-      - 200
+  #- name: QB-QA
+  #  url: $URL_QB_QA
+  #  expectedStatusCodes:
+  #    - 200
   - name: QB-Production
     url: $URL_QB_PROD
     expectedStatusCodes:
