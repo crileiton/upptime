@@ -24,7 +24,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Test Broken Site 8
-    url: https://cradqqqssanleitsaasnnnon.com/applee
+    url: https://cdqqqssanleitsaasnnnon.com/applee
     expectedStatusCodes:
       - 200
 
@@ -44,7 +44,7 @@ status-website:
   #    href: https://github.com/$OWNER/$REPO
   
   #light,dark,night,ocean
-  theme: ocean
+  theme: dark
 i18n:
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas están operativos
