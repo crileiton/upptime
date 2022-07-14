@@ -23,8 +23,8 @@ sites:
     url: $URL_PW_QA
     expectedStatusCodes:
       - 200
-  - name: Test Broken Site 8
-    url: https://cdqqqssanleitsaasnnnon.com/applee
+  - name: Test Broken Site 9
+    url: https://cdqqqssnnnon.com/appleee
     expectedStatusCodes:
       - 200
 
@@ -44,7 +44,7 @@ status-website:
   #    href: https://github.com/$OWNER/$REPO
   
   #light,dark,night,ocean
-  theme: dark
+  theme: night
 i18n:
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas están operativos
