@@ -27,7 +27,15 @@ sites:
     url: https://cdqqqssnnnon.com/appleee
     expectedStatusCodes:
       - 200
-
+  - name: Personal Page
+    url: https://cristianleiton.com
+    expectedStatusCodes:
+      - 200
+  - name: Personal Blog
+    url: https://blog.cristianleiton.com
+    expectedStatusCodes:
+      - 200
+      
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
