@@ -44,7 +44,7 @@ status-website:
   #    href: https://github.com/$OWNER/$REPO
   
   #light,dark,night,ocean
-  theme: night
+  theme: ocean
 i18n:
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas están operativos
