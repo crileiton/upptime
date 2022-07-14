@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
     "slug": "test-broken-site",
     "status": "down",
-    "uptime": "7.35%",
-    "uptimeDay": "7.35%",
-    "uptimeWeek": "7.35%",
-    "uptimeMonth": "7.35%",
-    "uptimeYear": "7.35%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-14": 0
+      "2022-07-14": 28
     }
   }
 ]
