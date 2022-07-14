@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "qb-qa",
     "status": "down",
-    "uptime": "32.12%",
-    "uptimeDay": "32.12%",
-    "uptimeWeek": "32.12%",
-    "uptimeMonth": "32.12%",
-    "uptimeYear": "32.12%",
-    "time": 8632,
-    "timeDay": 8632,
-    "timeWeek": 8632,
-    "timeMonth": 8632,
-    "timeYear": 8632,
+    "uptime": "28.20%",
+    "uptimeDay": "28.20%",
+    "uptimeWeek": "28.20%",
+    "uptimeMonth": "28.20%",
+    "uptimeYear": "28.20%",
+    "time": 9697,
+    "timeDay": 9697,
+    "timeWeek": 9697,
+    "timeMonth": 9697,
+    "timeYear": 9697,
     "dailyMinutesDown": {
-      "2022-07-14": 39
+      "2022-07-14": 46
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 450,
-    "timeDay": 450,
-    "timeWeek": 450,
-    "timeMonth": 450,
-    "timeYear": 450,
+    "time": 459,
+    "timeDay": 459,
+    "timeWeek": 459,
+    "timeMonth": 459,
+    "timeYear": 459,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 216,
-    "timeWeek": 216,
-    "timeMonth": 216,
-    "timeYear": 216,
+    "time": 222,
+    "timeDay": 222,
+    "timeWeek": 222,
+    "timeMonth": 222,
+    "timeYear": 222,
     "dailyMinutesDown": {}
   },
   {
@@ -92,21 +92,23 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Test Broken Site 8",
-    "url": "https://cdqqqssanleitsaasnnnon.com/applee",
-    "icon": "https://favicons.githubusercontent.com/cdqqqssanleitsaasnnnon.com",
-    "slug": "test-broken-site-8",
+    "name": "Test Broken Site 9",
+    "url": "https://cdqqqssnnnon.com/appleee",
+    "icon": "https://favicons.githubusercontent.com/cdqqqssnnnon.com",
+    "slug": "test-broken-site-9",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "7.08%",
+    "uptimeDay": "7.08%",
+    "uptimeWeek": "7.08%",
+    "uptimeMonth": "7.08%",
+    "uptimeYear": "7.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-14": 0
+    }
   }
 ]
