@@ -24,7 +24,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Test Broken Site 6
-    url: https://cradqassanleiton.com/apple
+    url: https://cradqqqssanleiton.com/apple
     expectedStatusCodes:
       - 200
 
