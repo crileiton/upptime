@@ -5,7 +5,7 @@ repo: upptime # The name of this repositoryy
 sites:
   - name: QB-Prod
     url: $SECRET_SITE
-  - name: Test Broken Site 
+  - name: Test Broken Site 3
     url: https://cristianleiton.com/apple
     expectedStatusCodes:
       - 200
