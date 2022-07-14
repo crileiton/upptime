@@ -3,10 +3,28 @@ owner: crileiton # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repositoryy
 
 sites:
-  - name: QB-Prod
-    url: $SECRET_SITE
+  - name: QB-Dev
+    url: $URL_QB_DEV
+    expectedStatusCodes:
+      - 200
+  - name: QB-QA
+    url: $URL_QB_QA
+    expectedStatusCodes:
+      - 200
+  - name: QB-Production
+    url: $URL_QB_PROD
+    expectedStatusCodes:
+      - 200
+  - name: PW-Dev
+    url: $URL_PW_DEV
+    expectedStatusCodes:
+      - 200
+  - name: PW-QA
+    url: $URL_PW_QA
+    expectedStatusCodes:
+      - 200
   - name: Test Broken Site 3
-    url: https://cristianleiton.com/apple
+    url: https://cristisadasdasdasdanleiton.com/apple
     expectedStatusCodes:
       - 200
 
