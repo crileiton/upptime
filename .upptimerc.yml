@@ -49,10 +49,6 @@ i18n:
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas están operativos
   liveStatus: Estado en vivo
-
-#light,dark,night,ocean
-status-website:
-
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
