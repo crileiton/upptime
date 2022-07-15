@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 181,
-    "timeWeek": 195,
-    "timeMonth": 195,
-    "timeYear": 195,
+    "time": 204,
+    "timeDay": 236,
+    "timeWeek": 204,
+    "timeMonth": 204,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 323,
-    "timeWeek": 430,
-    "timeMonth": 430,
-    "timeYear": 430,
+    "time": 425,
+    "timeDay": 332,
+    "timeWeek": 425,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 180,
-    "timeWeek": 213,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "time": 217,
+    "timeDay": 213,
+    "timeWeek": 217,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   },
   {
@@ -64,16 +64,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 176,
-    "timeWeek": 205,
-    "timeMonth": 205,
-    "timeYear": 205,
+    "time": 212,
+    "timeDay": 225,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site 10",
-    "url": "https://cdqqqssnnnosasan.com/appleee",
+    "url": "https://cdqqqssnnnosasan.com",
     "icon": "https://favicons.githubusercontent.com/cdqqqssnnnosasan.com",
     "slug": "test-broken-site-10",
     "status": "down",
@@ -88,48 +88,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-15": 635,
+      "2022-07-15": 744,
       "2022-07-14": 1227
-    }
-  },
-  {
-    "name": "Personal Page",
-    "url": "https://cristianleiton.com",
-    "icon": "https://favicons.githubusercontent.com/cristianleiton.com",
-    "slug": "personal-page",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "98.96%",
-    "time": 192,
-    "timeDay": 176,
-    "timeWeek": 192,
-    "timeMonth": 192,
-    "timeYear": 192,
-    "dailyMinutesDown": {
-      "2022-07-15": 20
-    }
-  },
-  {
-    "name": "Personal Blog",
-    "url": "https://blog.cristianleiton.com",
-    "icon": "https://favicons.githubusercontent.com/blog.cristianleiton.com",
-    "slug": "personal-blog",
-    "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "98.96%",
-    "time": 696,
-    "timeDay": 690,
-    "timeWeek": 696,
-    "timeMonth": 696,
-    "timeYear": 696,
-    "dailyMinutesDown": {
-      "2022-07-15": 20
     }
   }
 ]
