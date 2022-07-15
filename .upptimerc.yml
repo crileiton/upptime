@@ -24,15 +24,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: Test Broken Site 10
-    url: https://cdqqqssnnnosasan.com/appleee
-    expectedStatusCodes:
-      - 200
-  - name: Personal Page
-    url: https://cristianleiton.com
-    expectedStatusCodes:
-      - 200
-  - name: Personal Blog
-    url: https://blog.cristianleiton.com
+    url: https://cdqqqssnnnosasan.com
     expectedStatusCodes:
       - 200
       
